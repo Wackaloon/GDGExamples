@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="elevation">50dp</dimen>
+    <dimen name="elevation_2">-30dp</dimen>
+    <dimen name="margin_top">15dp</dimen>
+</resources>
